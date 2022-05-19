@@ -1,9 +1,9 @@
 @font-face{
     font-family: 'ppg';
-    src: url(/src/fonts/powerpuff\ girls\ font.ttf);
+    src: url(../src/fonts/powerpuff\ girls\ font.ttf);
 }
 @font-face {
     font-family: 'command';
-    src: url(/src/fonts/pilotcommand1_2.ttf);
+    src: url(../src/fonts/pilotcommand1_2.ttf);
 }
 
